@@ -1,0 +1,2 @@
+# Exemplo_Git_Projeto_Branch
+Essa é uma segmentação e serve para fazer diferentes versões em paralelo do projeto sem modificá-lo, criando então, a possibilidade de testar outras "features" no código e posteriormente juntar as modificações com o projeto base ou não. Essa segmentação parece a de uma árvore que tem suas ramificações em galhos, nesse caso esse é um galho da "branch main". Criarei outra Branch na qual darei "Merge" no ramo principal
