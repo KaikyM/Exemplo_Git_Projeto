@@ -6,7 +6,8 @@ Aqui você aprenderá os conceitos de Branch Main, Branches e Merge, além de su
 ## Criando a conexão entre o Git e o GitHub
 - Criar uma pasta com o nome "Exemplo_Git_Projeto"
 - Abra a pasta, click com o botão direito e abra o **Git Bash**
-<img align = "left" src = "imagens\image.png" 
+<br>
+<img src = "imagens\image.png" 
 height = "300" width = "300">
 - Escreva o comando **git init** para criar um repositório **.git** na sua pasta
 - Escreva **git add Readme.md** ( **git add .** é uma forma de enviar todos) para enviar o arquivo para a área de espera
@@ -20,13 +21,15 @@ height = "300" width = "300">
 ## Criando um arquivo **.java** como exemplo de um projeto
 - Crie um arquivo **HelloWorld.java** e escreva o código para dar um print "Hello World"
 - Agora repita o passo a passo usando o **Git Bash** para transferir os arquivos da pasta para o seu repositório **GitHub**
-<img align = "left" src = "imagens\image1.png" 
+<br>
+<img src = "imagens\image1.png" 
 heigth = "300" width = "300">
 - O arquivo **HelloWorld.java** será o exemplo de projeto da "branch main" que irá ser modificado posteriormente com "Merge"
 
 ## Criando uma Branch do Projeto
 - Escreva **git checkout -b "HWChoice"** para sair da "branch main" e criar uma ramificação chamada "HWChoice"
-<img align = "left" src = "imagens\image2.png" 
+<br>
+<img src = "imagens\image2.png" 
 heigth = "300" width = "300">
 - Repetindo os passos anteriores a única coisa diferente que terá que ser feita é digitar **git push origin HWChoice**, pois não estamos mais na "branch main"
 - Caso queira voltar para a "branch main" basta digitar **git checkout main**
