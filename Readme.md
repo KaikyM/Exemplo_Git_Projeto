@@ -10,6 +10,7 @@ Aqui você aprenderá os conceitos de Branch Main, Branches e Merge, além de su
 <img src = "imagens\image.png" 
 height = "300" width = "300">
 <br>
+
 - Escreva o comando **git init** para criar um repositório **.git** na sua pasta
 - Escreva **git add Readme.md** ( **git add .** é uma forma de enviar todos) para enviar o arquivo para a área de espera
 - Escreva **git status** para ver o status dos arquivos
@@ -26,6 +27,7 @@ height = "300" width = "300">
 <img src = "imagens\image1.png" 
 heigth = "300" width = "300">
 <br>
+
 - O arquivo **HelloWorld.java** será o exemplo de projeto da "branch main" que irá ser modificado posteriormente com "Merge"
 
 ## Criando uma Branch do Projeto
